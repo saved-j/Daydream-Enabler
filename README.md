@@ -3,7 +3,7 @@
 January 2018 I've bought me a new toy, made by Sony, with the 4K-IPS-display.
 I didn't yet know that it's the best available solution on the market for the VR-goggles. Then, I've unlocked my bootloader, and rooted the device.
 
-I've tried most of the available Magisk modules on my Xperia XZ Premium, but none led to success. Some even bootlooped my Xperia. Then I took them all apart, spent some time on a little research, and voila, it's working for me.
+I've tried everything on my Xperia XZ Premium, but nothing led to the FULL success. Some Magisk modules only let Daydream open. Some patches let some apps work. Some patches only let the VR apps work in 2D only. Some even bootlooped my Xperia. Then I took apart all of the works I've collected by then, spent some time on a little research, and voila, it's working for me.
 
 This module will enable the necessary build.prop strings, as well as android.software.vr.mode and android.hardware.vr.high_performance features for any Xperia, since they have some extra strings in build.prop that, as I assume, other phones don't. It may or **may not** work your Android device.
 
