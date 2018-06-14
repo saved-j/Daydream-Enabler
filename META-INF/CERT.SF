@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: uMSNjBRdIc7nhvcPFjmWrUQT9vw=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest-Manifest: UI+IguGhYLO6Cnq84uko4ij/zJI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: CZJPF6Y+Zw2obINcHE/nIdZgzV4=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: config.sh
+SHA1-Digest-Manifest: dw+xi099eJPL2e/NjccWL/iyT0s=
+
+Name: system/etc/permissions/handheld_core_hardware.xml
+SHA1-Digest-Manifest: 37sd3HREGenub+M8h2KPprUETcM=
+
+Name: README.md
+SHA1-Digest-Manifest: cmRo+4OC7BoGue23mRsubkyuoT8=
+

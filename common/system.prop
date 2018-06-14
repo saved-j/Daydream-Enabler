@@ -1,0 +1,16 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+ro.build.product=marlin
+ro.semc.product.model=Pixel XL
+ro.semc.product.name=marlin
+ro.semc.product.device=marlin
+ro.product.model=Pixel XL
+ro.build.tags=release-keys
+ro.build.flavor=marlin-user
+ro.product.brand=Google
+ro.product.name=marlin
+ro.product.device=marlin
+ro.product.manufacturer=Google
+ro.product.board=marlin
+ro.build.fingerprint=google/marlin/marlin:8.0.0/OPR6.170623.012/4283428:user/release-keys
